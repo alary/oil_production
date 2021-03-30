@@ -22,6 +22,6 @@
 ---
 ### Используемые библиотеки
 - pandas
-- sklearn
+- scikit-learn
 - numpy
 - matplotlib
